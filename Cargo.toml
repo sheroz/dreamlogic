@@ -1,0 +1,9 @@
+[package]
+name = "dreamlogic"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sheroz Khaydarov"]
+description = "A root package for dreamlogic libraries"
+readme = "README.md"
+repository = "https://github.com/sheroz/dreamlogic"
+license = "MIT"
